@@ -1,0 +1,112 @@
+<font rwr="1" size="4" style="font-family:Arial"><div id="listing">
+<link href="https://blog.stage21bikes.com/wp-content/themes/stage21/css/ebay.css" rel="stylesheet" type="text/css">
+<header>
+<div class="header-content container">
+<span class="sm:hide">SOUTHERN CALIFORNIA'S PREMIER CYCLING BOUTIQUE</span>
+<img src="https://blog.stage21bikes.com/wp-content/themes/stage21/img/stage21-logo-white.svg">
+<span class="sm:hide">CUSTOM BUILDS • PARTS • SERVICE • CYCLING CULTURE</span>
+</div>
+<div class="banner">
+<div class="container">
+<span>WE'RE CANNONDALE, ROCKSHOX, AND SRAM EXPERTS</span>
+</div>
+</div>
+</header>
+<main class="container">
+<aside>
+<div class="side-heading">
+<a class="side-item" href="https://stores.ebay.com/stage21bikes/About-Us.html">
+<h3 class="about-heading">ABOUT STAGE 21</h3>
+<img src="https://blog.stage21bikes.com/wp-content/uploads/2022/05/enve-auth.png">
+<br>
+<br>
+</a>
+<a class="side-item" href="https://stores.ebay.com/id=16922461">VISIT OUR EBAY STORE</a>
+</div>
+<ul class="tab-links">
+<li>
+<label for="tab_description">ITEM DESCRIPTION</label>
+</li>
+<li>
+<label for="tab_payment">PAYMENT</label>
+</li>
+<li>
+<label for="tab_shipping">SHIPPING</label>
+</li>
+<li>
+<label for="tab_returns">RETURNS</label>
+</li>
+<li>
+<label for="tab_about-us">ABOUT US</label>
+</li>
+</ul>
+<ul>
+<li>
+<a class="side-item" href="https://my.ebay.com/ws/eBayISAPI.dll?AcceptSavedSeller&amp;linkname=includefavoritestore&amp;sellerid=stage21cycling">ADD SELLER TO FAVORITES</a>
+</li>
+<li>
+<a class="side-item" href="https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&amp;userid=stage21cycling&amp;ftab=AllFeedback">VIEW SELLER FEEDBACK</a>
+</li>
+<li>
+<a href="https://contact.ebay.com/ws/eBayISAPI.dll?FindAnswers&amp;frm=284&amp;requested=stage21cycling" class="side-item">CONTACT SELLER</a>
+</li>
+</ul>
+<img class="payments" src="https://blog.stage21bikes.com/wp-content/themes/stage21/img/payments.jpg">
+</aside>
+<input type="radio" class="visually-hidden" name="tab" value="description" id="tab_description" checked="">
+<input type="radio" class="visually-hidden" name="tab" value="payment" id="tab_payment">
+<input type="radio" class="visually-hidden" name="tab" value="shipping" id="tab_shipping">
+<input type="radio" class="visually-hidden" name="tab" value="returns" id="tab_returns">
+<input type="radio" class="visually-hidden" name="tab" value="about-us" id="tab_about-us">
+<section class="tab-container">
+<article class="tab" data-tab="description">
+<h3>ITEM DESCRIPTION</h3>
+<div> <!-- ITEM DESCRIPTION START -->
+
+</div> <!-- ITEM DESCRIPTION END -->
+</article>
+<article class="tab" data-tab="payment">
+<h3>PAYMENTS</h3>
+<p>We accept PayPal for all online purchases.</p>
+</article>
+<article class="tab" data-tab="shipping">
+<h3>SHIPPING</h3>
+<p>We ship 5 days per week. Orders placed before 2:00pm PST will normally ship same day. We ship most small parts via USPS and complete bikes, frames and larger parts via UPS.</p>
+</article>
+<article class="tab" data-tab="returns">
+<h3>RETURNS</h3>
+<p>We do our best to clearly describe all items accurately. Most purchases on eBay are considered by us to be Final unless otherwise stated in the auction terms and conditions.</p>
+</article>
+<article class="tab" data-tab="about-us">
+<h3>ABOUT US</h3>
+<p>Located in Orange County, California - We are a full service retail bicycle boutique specializing in custom builds, particularly Cannondale. We carry all of the hard to find parts and accessories, including all service parts for nearly every Cannondale platform in existence. Don't see what your looking for? Get in touch and we can most likely help you out.</p>
+</article>
+</section>
+</main>
+<footer>
+<section class="container">
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 447 349.78">
+<defs>
+<style>
+.cls-1 {
+fill: white;
+}
+.cls-2 {
+fill: white;
+}
+</style>
+</defs>
+<path class="cls-1" d="M29.22,197.11c0-24.13,12.69-36.82,38.08-36.82H92.69c26.66,0,40.63,14,40.63,39.35v2.54q0,3.81-3.81,3.81h-14q-3.8,0-3.8-3.81v-2.54c0-11.42-7.62-19-19-19H67.3c-10.15,0-16.5,6.35-16.5,16.51v1.26c0,5.08,3.81,8.64,8.89,10.16l55.85,17.77c11.43,3.56,20.32,12.7,20.32,27.93V258c0,24.12-12.7,36.82-38.09,36.82H67.3c-26.66,0-40.62-14-40.62-39.36V253q0-3.81,3.81-3.81h14q3.81,0,3.81,3.81v2.54c0,11.43,7.62,19,19,19H97.77c10.16,0,16.51-6.34,16.51-16.5V255.5c0-5.08-3.81-8.63-8.89-10.16L49.53,227.57C38.11,224,29.22,214.88,29.22,199.64Z" transform="translate(-26.05 -26.76)"></path>
+<path class="cls-1" d="M273.68,134.42c9.43-9.42,13.2-13.19,13.2-26.39V96.72c0-11.31-7.54-18.85-18.85-18.85H241.64c-11.31,0-18.85,7.54-18.85,18.85v13.2c0,5.65-3.77,9.42-9.43,9.42H175.67c-5.66,0-9.43-3.77-9.43-9.42V85.41c0-39.58,18.85-58.43,58.43-58.43H285c39.58,0,58.43,18.85,58.43,58.43v30.16c0,24.51-13.19,37.7-26.39,50.89L243.52,240v3.77H334c5.65,0,9.42,3.77,9.42,9.43v32c0,5.66-3.77,9.43-9.42,9.43H173.78c-5.65,0-9.42-3.77-9.42-9.43V258.82c0-15.08,3.77-18.85,13.19-28.27Z" transform="translate(-26.05 -26.76)"></path>
+<path class="cls-1" d="M416.19,78.45H380.37c-5.65,0-9.42-3.83-9.42-9.56V36.36c0-5.74,3.77-9.56,9.42-9.56h82.94c5.65,0,9.42,3.82,9.42,9.56V285.07c0,5.74-3.77,9.57-9.42,9.57h-37.7c-5.65,0-9.42-3.83-9.42-9.57Z" transform="translate(-26.05 -26.76)"></path>
+<path d="M53.12,376.54H39.32c-8.68,0-13.27-4.47-13.27-12.93v-2.76A1.75,1.75,0,0,1,27.94,359h4.48a1.75,1.75,0,0,1,1.89,1.89v2.76c0,3.32,1.69,5,5,5h13.8c3.33,0,5-1.69,5-5V360.5c0-1.87-1-3-3.19-3.67h0l-20.7-6.55c-4.9-1.55-7.49-4.94-7.49-9.79v-2.41c0-8.46,4.59-12.93,13.27-12.93H52.43c8.69,0,13.28,4.47,13.28,12.93v2.76a1.76,1.76,0,0,1-1.89,1.89H59.33a1.76,1.76,0,0,1-1.89-1.89v-2.76c0-3.32-1.68-5-5-5H40c-3.32,0-5,1.69-5,5v1.72c0,1.87,1,3,3.2,3.67L58.9,350c4.9,1.55,7.5,4.93,7.5,9.78v3.8C66.4,372.07,61.81,376.54,53.12,376.54Z" transform="translate(-26.05 -26.76)"></path>
+<path d="M114.18,375.85H109.7a1.75,1.75,0,0,1-1.89-1.89v-40.2H93.48a1.75,1.75,0,0,1-1.89-1.89v-4.14a1.75,1.75,0,0,1,1.89-1.89H130.4a1.75,1.75,0,0,1,1.88,1.89v4.14a1.75,1.75,0,0,1-1.88,1.89H116.07V374A1.75,1.75,0,0,1,114.18,375.85Z" transform="translate(-26.05 -26.76)"></path>
+<path d="M192.28,375.85h-4.82a2.38,2.38,0,0,1-2.52-1.58L181,363.43H160.8l-3.94,10.82a2.38,2.38,0,0,1-2.52,1.6h-4.83a1.59,1.59,0,0,1-1.42-.64,1.62,1.62,0,0,1-.07-1.57L166,327.42a2.44,2.44,0,0,1,2.52-1.58h4.83a2.41,2.41,0,0,1,2.49,1.51l18,46.3a1.48,1.48,0,0,1-1.49,2.2Zm-28.44-20.34H178l-7-19.13Z" transform="translate(-26.05 -26.76)"></path>
+<path d="M245.55,376.54H229.68c-8.68,0-13.27-4.47-13.27-12.93V338.08c0-8.46,4.59-12.93,13.27-12.93h15.87c8.68,0,13.27,4.47,13.27,12.93v2.76a1.75,1.75,0,0,1-1.89,1.89h-4.48a1.75,1.75,0,0,1-1.89-1.89v-2.76c0-3.32-1.69-5-5-5H229.68c-3.32,0-5,1.69-5,5v25.53c0,3.32,1.69,5,5,5h15.87c3.32,0,5-1.69,5-5v-7.08h-9.5a1.76,1.76,0,0,1-1.89-1.89V350.5a1.75,1.75,0,0,1,1.89-1.89h15.87a1.74,1.74,0,0,1,1.89,2v13C258.82,372.07,254.23,376.54,245.55,376.54Z" transform="translate(-26.05 -26.76)"></path>
+<path d="M328.07,375.85H292.81a1.75,1.75,0,0,1-1.89-1.89V327.8a1.77,1.77,0,0,1,1.89-2h34.5a1.75,1.75,0,0,1,1.89,1.89v4.14a1.74,1.74,0,0,1-1.82,1.89h-28.2v12.78H321.1a1.75,1.75,0,0,1,1.89,1.89v4.14a1.74,1.74,0,0,1-1.82,1.89h-22v13.47H328a1.75,1.75,0,0,1,1.89,1.89V374A1.75,1.75,0,0,1,328.07,375.85Z" transform="translate(-26.05 -26.76)"></path>
+<path d="M426,375.85H392.85A1.76,1.76,0,0,1,391,374v-3.8a3.2,3.2,0,0,1,1.32-2.7l24.5-21.4c2.09-1.81,2.82-2.56,2.82-4.88v-3.1c0-3.32-1.69-5-5-5H404.24c-3.33,0-5,1.69-5,5v2.76a1.76,1.76,0,0,1-1.89,1.89h-4.49a1.76,1.76,0,0,1-1.89-1.89v-2.76c0-8.46,4.59-12.93,13.28-12.93h10.35c8.68,0,13.27,4.47,13.27,12.93v3.1c0,4.94-2.63,7.87-5.47,10.31l-19,16.44H426a1.75,1.75,0,0,1,1.89,1.89V374A1.79,1.79,0,0,1,426,375.85Z" transform="translate(-26.05 -26.76)"></path>
+<path d="M471.16,375.85h-4.48a1.75,1.75,0,0,1-1.89-1.89v-40.2h-9.15a1.75,1.75,0,0,1-1.89-1.89v-4.14a1.75,1.75,0,0,1,1.89-1.89h15.52a1.75,1.75,0,0,1,1.89,1.89V374A1.75,1.75,0,0,1,471.16,375.85Z" transform="translate(-26.05 -26.76)"></path>
+<path class="cls-2" d="M77.08,117l-41.63-83a5,5,0,0,1,4.43-7.18h83.85a5,5,0,0,1,4.42,7.2L85.93,117A5,5,0,0,1,77.08,117Z" transform="translate(-26.05 -26.76)"></path>
+</svg>
+</section></footer>
+</div></font>
